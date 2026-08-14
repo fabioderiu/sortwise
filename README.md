@@ -4,6 +4,9 @@ AI-powered file organizer for macOS. Uses Claude to understand what your files a
 
 Comes with a **native macOS menu bar app** and a **disk usage monitor**.
 
+Repository contributors and agents should read [AGENTS.md](AGENTS.md) and
+[REPOSITORIES.md](REPOSITORIES.md) before starting work.
+
 <p align="center">
   <img src="assets/screenshot-menu.png" alt="Sortwise menu bar app" width="350">
 </p>
